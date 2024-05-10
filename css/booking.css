@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+}
+td{
+    text-align: center;
+}
+.book{
+    text-decoration: none ;
+    color: black ;
+    background-color: #805f48 ;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 2px 26px;
+}
+.book:hover{
+    background-color: black ;
+    color: white;
+}
+h1{
+    margin-top: -10px;
+}

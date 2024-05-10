@@ -1,0 +1,32 @@
+h1{
+    margin-top: -15px;
+}
+.label{
+    color: black;
+}
+.img{
+    height: 170px;
+    width: 150px;
+}
+.pro_button{
+    margin-top: 10px;
+    background-color: #7d6960; 
+    color: black; 
+    border: 2px solid #7d6960;
+    border-radius: 10px;
+    font-size: 19px;
+    padding: 7px 19px;
+    cursor: pointer;
+}
+.pro_button:hover{
+       color :white;
+       background-color: black;
+       box-shadow: 0 0 4px black;
+       transition: 0.4s;
+}
+.input{
+    font-size: 18px;
+    /*width: 200px;*/
+    margin-left: 40px;
+  }
+  

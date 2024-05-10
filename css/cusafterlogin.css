@@ -1,0 +1,12 @@
+.workers{
+    width:250px; height:150px;
+}
+.label{
+    font-size: 20px;
+    background-color: "#f1e8d7";
+    cursor: pointer;
+}
+.links{
+    text-decoration: none ;
+    color: black ;
+}

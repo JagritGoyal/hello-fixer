@@ -1,0 +1,77 @@
+body {
+    font-family: "Trirong", serif;
+  }	
+  .head_button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    margin: 0px 0px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #7d6960; 
+    color: black; 
+    border: 2px solid #7d6960;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 7px 19px;;
+  }
+  .head_button:hover {
+    background-color: #26466c;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: #7d6960; 
+    color: black; 
+    border: 2px solid #7d6960;
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 7px 19px;
+  }
+  .button2:hover {
+    background-color: #26466c;
+    color: white;
+  }
+  .button3 {
+    background-color: #7d6960; 
+    color: black; 
+    border: 2px solid #7d6960;
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 7px 19px;
+  }
+  .button3:hover {
+    background-color: #26466c;
+    color: white;
+  }
+  .button4 {
+    background-color: #7d6960; 
+    color: black; 
+    border: 2px solid #7d6960;
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 7px 19px;
+  }
+  .button4:hover {
+    background-color: black;
+    color: white;
+   
+  }
+  .button5 {
+    background-color: #7d6960; 
+    color: black; 
+    border: 2px solid #7d6960;
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 7px 19px;
+  }
+  
+  .button5:hover {
+    background-color: black;
+    color: white;
+  }
